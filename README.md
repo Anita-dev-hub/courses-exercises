@@ -1,2 +1,2 @@
-# courses-exercises
+# Courses-Exercises
 Courses from my education
